@@ -19,6 +19,10 @@ make build
 ./warlog
 ```
 
+## Getting started
+
+Before developing copy `config/config.dev.yml` to `config/config.yml` and make needed changes.
+
 [Travis]: https://travis-ci.org/ShestakovDA/warlog
 [CodeCov]: https://codecov.io/gh/ShestakovDA/warlog
 [win_make_ru]: https://github.com/ShestakovDA/warlog/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-make-%D0%B2-Windows

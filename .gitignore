@@ -13,3 +13,7 @@ coverage.txt
 # IDEs
 .vscode/
 .idea/
+
+# Environment
+config.yml
+logs/
