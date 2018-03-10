@@ -4,12 +4,12 @@
 *.dll
 *.so
 *.dylib
+warlog
 
-# Test binary, build with `go test -c`
+# Tests
 *.test
+coverage.txt
 
 # IDEs
 .vscode/
 .idea/
-
-warlog

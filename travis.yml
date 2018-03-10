@@ -1,0 +1,15 @@
+language: go
+
+go:
+  - 1.10.x
+
+go_import_path: github.com/ShestakovDA/warlog
+
+before_install:
+  - go get -t -v ./...
+
+script:
+  - go test -v --race --covermode=atomic --coverprofile=coverage.txt ./...
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
