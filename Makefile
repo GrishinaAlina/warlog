@@ -17,6 +17,7 @@ all: build
 requirements:
 	@echo Installing requirements...
 	@go get -v "github.com/gocraft/web"
+	@go get -v "github.com/go-yaml/yaml"
 
 build: requirements
 	@echo Building...
