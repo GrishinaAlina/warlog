@@ -1,0 +1,11 @@
+object_predicate: "/d{1,8}"
+newline_object_beginning: false
+objects:
+  object1:
+    field1: "/d{1,8}"
+    field2: "/d"
+    field3: "/w"
+  object2:
+    field1: "/d{1,8}"
+    field2: "/d"
+    field3: "/w"
