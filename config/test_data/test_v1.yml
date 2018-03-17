@@ -1,5 +1,5 @@
 general:
-  conf_ver: 1.0
+  conf_ver: 1
   debug: true
 http_api:
   host: localhost
