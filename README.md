@@ -45,7 +45,7 @@ make test
 
 ## License [![License][LicenseBadge]](./LICENSE)
 
-The code licensed under [The Lil License][lil_license]. See LICENSE file read it.
+The code licensed under [The Lil License][lil_license]. See LICENSE file to read it.
 
 [wiki]: https://github.com/ShestakovDA/warlog/wiki/
 [win_make_ru]: https://github.com/ShestakovDA/warlog/wiki/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-make-%D0%B2-Windows
