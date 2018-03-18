@@ -2,11 +2,11 @@
 
 A captain's log management system. Boatswain recommends.
 
-* [Docs](#docs)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Tests](#tests)
-* [License](#license)
+* [Docs](#docs-)
+* [Installation](#installation-)
+* [Usage](#usage-)
+* [Tests](#tests-)
+* [License](#license-)
 
 ## Docs [![GoDoc][GoDocBadge]][GoDoc]
 
@@ -16,13 +16,20 @@ See GoDoc to read code documentation or [project wiki][wiki] to read common docu
 
 ## Installation [![Travis][TravisBadge]][Travis]
 
+Get sources:
+
 ```sh
 go get -u github.com/ShestakovDA/warlog
 cd $GOPATH/github.com/ShestakovDA/warlog
+```
+
+And build them:
+
+```sh
 make build
 ```
 
-[How to install][win_make_ru] `make` on Windows (RUSSIAN).
+> [How to install][win_make_ru] `make` on Windows (Russian).
 
 ## Usage [![GoReportCard][GoReportCardBadge]][GoReportCard]
 
